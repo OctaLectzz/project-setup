@@ -1,0 +1,7 @@
+node_modules
+
+# Cordova related directories and files
+/src-cordova/node_modules
+
+# Capacitor related directories and files
+/src-capacitor/node_modules

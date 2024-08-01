@@ -1,0 +1,8 @@
+/setup/node_modules
+/api-setup/vendor
+
+# Cordova related directories and files
+/src-cordova/node_modules
+
+# Capacitor related directories and files
+/src-capacitor/node_modules
